@@ -5,7 +5,6 @@ import java.util.Map;
 
 /**
  * 难度：简单
- * 反转字符串
  *
  */
 public class TwoNumSum {
